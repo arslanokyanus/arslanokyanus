@@ -1,16 +1,25 @@
-## Hi there 👋
+# Okyanus Arslan (ech0day)
+## Systems Architect | Full-stack Developer | Cyber-Security Enthusiast
 
-<!--
-**arslanokyanus/arslanokyanus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌌 Grand Architecture (The Okeanoss Ecosystem)
+Building a unified digital empire with **KeystoneJS**, **PostgreSQL**, and **Next.js**.
+- **Market**: Priority Digital Vault & SaaS.
+- **Edu**: Advanced LMS for video courses & quizzes.
+- **Events**: Festival & QR Ticketing systems.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend**: Next.js (App Router), React, TailwindCSS, TypeScript.
+- **Backend**: KeystoneJS, GraphQL, Node.js, Express.
+- **Infrastructure**: PostgreSQL, Redis, Docker, Linux (Fedora/Ubuntu), Cloudflare (flarectl).
+- **Tools**: Turborepo, pnpm workspaces, Unified Auth (JWT/Passport).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Activity & Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslanokyanus&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanokyanus&layout=compact&theme=dark)
+
+### 📬 Contact
+- **Website**: [okyanus.web.tr](https://okyanus.web.tr)
+- **Status**: 🚀 Open to high-impact Remote Full-stack roles.
+
+---
+*Powered by Hilal 💋⚡*
